@@ -6,30 +6,16 @@
 ### Stack technique
 
 **Frontend**
-![React](https://img.shields.io/badge/React-550086?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0b0086?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-550086?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-06b47b?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-06b47b?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06b47b?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-0b0086?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-550086?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0b0086?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0671b4?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0671b4?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0671b4?style=for-the-badge&logo=php&logoColor=white)
 
 **Outils & environnement**
-![Git](https://img.shields.io/badge/Git-550086?style=flat&logo=git&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-0b0086?style=flat&logo=fedora&logoColor=white)
-
-<!--
-**davidbailly-dev/davidbailly-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Git](https://img.shields.io/badge/Git-353624?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-353624?style=for-the-badge&logo=github&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-353624?style=for-the-badge&logo=fedora&logoColor=white)
