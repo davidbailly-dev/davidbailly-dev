@@ -56,6 +56,7 @@
 ![Git](https://img.shields.io/badge/Git-353624?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-353624?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-353624?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-353624?style=for-the-badge&logo=linux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-353624?style=for-the-badge&logo=fedora&logoColor=white)
 
 ## 📈 Quelques exemples de projets menés
